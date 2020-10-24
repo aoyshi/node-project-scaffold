@@ -1,0 +1,9 @@
+{
+    "code": "SUCCESS",
+    "messages": {
+        "create": "Successfully created the resource.",
+        "read": "Successfully read the resource.",
+        "update": "Successfully updated the resource.",
+        "delete": "Successfully deleted the resource."
+    }
+}
